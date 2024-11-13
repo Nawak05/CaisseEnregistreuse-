@@ -1,7 +1,6 @@
 {
-    "version": "1.0.1",
-    "zipUrl": "https://github.com/Nawak05/CaisseEnregistreuse-/releases/download/v1/update.zip",
-    "unpackFolder": "C:\\Caisse",
-    "changelog": "Correctifs et améliorations. Ajout de nouvelles fonctionnalités."
-  }
-  
+  "version": "1.1.0",
+  "zipUrl": "https://github.com/Nawak05/CaisseEnregistreuse-/releases/download/v1.1.0/update.zip",
+  "changelog": "Corrections de bugs et nouvelles fonctionnalités.",
+  "unpackFolder": "C:\\Caisse"
+}
