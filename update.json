@@ -1,11 +1,6 @@
 {
   "version": "1.1.0",
-  "zipUrls": [
-    "https://drive.google.com/uc?id=1ML1T8xWXLlHZg87py4Ie25kkNzp56BF2&export=download",
-    "https://drive.google.com/uc?id=1-ERd2K5HxlFCJKK8H67XeHNFPezhUGzR&export=download",
-    "https://drive.google.com/uc?id=1PvJZ5qXKb_q5vdI-gVERqDiGNpl2cX_g&export=download"
-    
-  ],
-  "changelog": "Mise à jour vers la version 1.1.0",
+  "zipUrl": "https://github.com/Nawak05/CaisseEnregistreuse-/releases/download/v1/update.zip",
+  "changelog": "Améliorations et nouvelles fonctionnalités.",
   "unpackFolder": "C:\\Caisse"
 }
